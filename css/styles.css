@@ -10,6 +10,7 @@
   --icon-color: #afb1b8;
   --timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
+
 /* Базовые настройки CSS */
 body {
   background-color: var(--main-bg-color);
