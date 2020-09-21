@@ -1,3 +1,18 @@
-body {
-  background-color: gray;
+@import "./utils/variables";
+@import "./base/normalize";
+
+.section {
+  color: $main-text-color;
+
+  &__title {
+    color: green;
+
+    &--blue{
+      color: blue;
+    }
+  }
+
+  &__text {
+    color: $accent-color;
+  }
 }
