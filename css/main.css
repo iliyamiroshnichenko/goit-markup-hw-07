@@ -284,4 +284,38 @@ summary {
 .section__text {
   color: #2196f3;
 }
+
+.qwe {
+  border: 1px solid green;
+}
+
+.push-me {
+  font-size: 16px;
+  padding: 10px;
+}
+
+.push-me {
+  margin: 5px;
+  color: gray;
+}
+
+.icon-facebook {
+  background-color: honeydew;
+  background-image: url(../images/svg/facebook.svg);
+}
+
+.icon-github {
+  background-color: honeydew;
+  background-image: url(../images/svg/github.svg);
+}
+
+.icon-linkedin {
+  background-color: honeydew;
+  background-image: url(../images/svg/linkedin.svg);
+}
+
+.icon-twitter {
+  background-color: honeydew;
+  background-image: url(../images/svg/twitter.svg);
+}
 /*# sourceMappingURL=main.css.map */
