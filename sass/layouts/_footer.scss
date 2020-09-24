@@ -1,0 +1,6 @@
+.footer-contacts__link {
+  &:hover,
+  &:focus {
+    color: $accent-color;
+  }
+}
