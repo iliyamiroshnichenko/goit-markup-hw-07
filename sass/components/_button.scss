@@ -20,3 +20,11 @@
     background-color: $button-accent-color;
   }
 }
+
+.button-primary--flex {
+  @include flexbox(center, center);
+}
+
+.button-primary--modal {
+  margin: 0 auto;
+}
