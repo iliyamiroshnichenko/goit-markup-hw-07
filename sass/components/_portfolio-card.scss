@@ -24,11 +24,6 @@
   color: $main-bg-color;
 }
 
-.portfolio-list__link:hover .portfolio-card__overlay,
-.portfolio-list__link:focus .portfolio-card__overlay {
-  transform: translateY(0);
-}
-
 .portfolio-card__content {
   padding: 20px 24px;
   border-right: 1px solid #eeeeee;

@@ -27,3 +27,8 @@
       1px 4px 6px rgba(0, 0, 0, 0.16);
   }
 }
+
+.portfolio-list__link:hover .portfolio-card__overlay,
+.portfolio-list__link:focus .portfolio-card__overlay {
+  transform: translateY(0);
+}
